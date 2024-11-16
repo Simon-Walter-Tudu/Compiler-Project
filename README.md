@@ -1,1 +1,2 @@
 # Compiler-Project
+The Compiler Project developed a custom translator that converts a user-defined programming language to C. It utilizes Flex for lexical analysis and Bison for parsing, efficiently handling token creation, code conversion, and syntax and semantic analysis. This project demonstrates expertise in compiler design and automated code transformations while addressing the complexities of language compilers.
